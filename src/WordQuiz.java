@@ -7,7 +7,7 @@ import javax.swing.text.AbstractDocument.BranchElement;
 
 
 
-public class WordQuiz {
+public class WordQuiz {////
 	private String name;
 	private ArrayList<Word> w;
 	
